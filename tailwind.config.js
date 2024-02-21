@@ -15,6 +15,9 @@ module.exports = {
       width: {
         15: "15%",
       },
+      height: {
+        100: "31.25rem",
+      },
       backgroundColor: {
         nextButton: "#1B6C8C",
       },
