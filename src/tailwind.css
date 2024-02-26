@@ -5,3 +5,132 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.page-wrapper {
+  @apply w-full overflow-hidden my-20 mx-20;
+}
+
+.outside-form-container {
+  @apply flex md:flex-row flex-col justify-center items-center lg:px-20 xl:px-56;
+}
+
+.inside-form-container {
+  @apply bg-white px-5 w-full rounded-2xl drop-shadow-2xl;
+}
+
+.form-header-section {
+  @apply flex justify-center items-center mt-10 flex-col  xl:flex-row 2xl:flex-row;
+
+  .form-logo {
+    @apply w-full object-contain object-center sm:w-20 md:w-60 lg:w-48 xl:w-56 2xl:w-52;
+  }
+
+  .form-title {
+    @apply font-black font-Lato text-black sm:text-2xl md:text-2xl text-center lg:text-3xl xl:text-lg 2xl:text-4xl
+    sm:px-10 md:px-7 lg:px-14 xl:px-5 2xl:px-8;
+  }
+}
+
+.form-thank-you-message-section {
+  @apply mt-10 sm:px-10 md:px-7 lg:px-14 xl:px-16 2xl:px-20;
+
+  .thank-you-message {
+    @apply text-justify font-light font-Roboto sm:text-xs md:text-sm lg:text-xl xl:text-base 2xl:text-xl;
+  }
+}
+
+.form-instruction-guide-section {
+  @apply mt-5 sm:px-10 md:px-7 lg:px-14 xl:px-16 2xl:px-20;
+
+  .instruction-guide-message {
+    @apply font-bold font-Roboto text-justify text-black leading-8 sm:text-xs md:text-sm lg:text-xl xl:text-base 2xl:text-xl;
+  }
+}
+
+.form-questionnaires-section {
+  @apply mt-7 my-5 sm:px-10 md:px-7 lg:px-14 xl:px-16 2xl:px-20;
+
+  .table-container {
+    @apply relative overflow-x-auto;
+  }
+
+  .aspect-column {
+    @apply w-1/4;
+  }
+
+  .response-anchors {
+    @apply w-15 font-Roboto px-5 py-5 text-center text-xs md:text-sm lg:text-lg xl:text-xl 2xl:text-lg;
+  }
+
+  .aspect-labels {
+    @apply font-bold font-Roboto uppercase text-left text-black mt-10 text-xs md:text-sm lg:text-base xl:text-base 2xl:text-xl;
+  }
+
+  .specific-criterias-1 {
+    @apply mt-6 font-Roboto text-sm text-left sm:text-xs md:text-xs lg:text-sm xl:text-base 2xl:text-base;
+  }
+
+  .specific-criterias-2 {
+    @apply mt-7 font-Roboto text-sm text-left sm:text-xs md:text-xs lg:text-sm xl:text-base 2xl:text-base;
+  }
+
+  .radio-button-container {
+    @apply text-center;
+  }
+
+  .user-interface-radio-buttons {
+    @apply mt-24 drop-shadow-sm sm:w-4 sm:h-4 md:w-4 md:h-4 lg:w-6 lg:h-6 xl:w-6 xl:h-6 2xl:w-6 2xl:h-6 hover:drop-shadow-lg hover:scale-150 hover:delay-75 hover:ring-sky-900 hover:ring-2 hover:ease-in-out focus:ring-sky-900 text-sky-900;
+  }
+
+  .functionality-radio-buttons-1 {
+    @apply mt-24 drop-shadow-sm sm:w-4 sm:h-4 md:w-4 md:h-4 lg:w-6 lg:h-6 xl:w-6 xl:h-6 2xl:w-6 2xl:h-6 hover:drop-shadow-lg hover:scale-150 hover:delay-75 hover:ring-sky-900 hover:ring-2 hover:ease-in-out focus:ring-sky-900 text-sky-900;
+  }
+
+  .functionality-radio-buttons-2 {
+    @apply mt-7 drop-shadow-sm sm:w-4 sm:h-4 md:w-4 md:h-4 lg:w-6 lg:h-6 xl:w-6 xl:h-6 2xl:w-6 2xl:h-6 hover:drop-shadow-lg hover:scale-150 hover:delay-75 hover:ring-sky-900 hover:ring-2 hover:ease-in-out focus:ring-sky-900 text-sky-900;
+  }
+
+  .scalability-radio-buttons {
+    @apply mt-24 drop-shadow-sm sm:w-4 sm:h-4 md:w-4 md:h-4 lg:w-6 lg:h-6 xl:w-6 xl:h-6 2xl:w-6 2xl:h-6 hover:drop-shadow-lg hover:scale-150 hover:delay-75 hover:ring-sky-900 hover:ring-2 hover:ease-in-out focus:ring-sky-900 text-sky-900;
+  }
+
+  .integration-radio-buttons {
+    @apply mt-24 drop-shadow-sm sm:w-4 sm:h-4 md:w-4 md:h-4 lg:w-6 lg:h-6 xl:w-6 xl:h-6 2xl:w-6 2xl:h-6 hover:drop-shadow-lg hover:scale-150 hover:delay-75 hover:ring-sky-900 hover:ring-2 hover:ease-in-out focus:ring-sky-900 text-sky-900;
+  }
+
+  .security-radio-buttons-1 {
+    @apply mt-24 drop-shadow-sm sm:w-4 sm:h-4 md:w-4 md:h-4 lg:w-6 lg:h-6 xl:w-6 xl:h-6 2xl:w-6 2xl:h-6 hover:drop-shadow-lg hover:scale-150 hover:delay-75 hover:ring-sky-900 hover:ring-2 hover:ease-in-out focus:ring-sky-900 text-sky-900;
+  }
+
+  .security-radio-buttons-2 {
+    @apply mt-7 drop-shadow-sm sm:w-4 sm:h-4 md:w-4 md:h-4 lg:w-6 lg:h-6 xl:w-6 xl:h-6 2xl:w-6 2xl:h-6 hover:drop-shadow-lg hover:scale-150 hover:delay-75 hover:ring-sky-900 hover:ring-2 hover:ease-in-out focus:ring-sky-900 text-sky-900;
+  }
+
+  .reporting-radio-buttons {
+    @apply mt-24 drop-shadow-sm sm:w-4 sm:h-4 md:w-4 md:h-4 lg:w-6 lg:h-6 xl:w-6 xl:h-6 2xl:w-6 2xl:h-6 hover:drop-shadow-lg hover:scale-150 hover:delay-75 hover:ring-sky-900 hover:ring-2 hover:ease-in-out focus:ring-sky-900 text-sky-900;
+  }
+
+  .permissions-radio-buttons {
+    @apply mt-24 drop-shadow-sm sm:w-4 sm:h-4 md:w-4 md:h-4 lg:w-6 lg:h-6 xl:w-6 xl:h-6 2xl:w-6 2xl:h-6 hover:drop-shadow-lg hover:scale-150 hover:delay-75 hover:ring-sky-900 hover:ring-2 hover:ease-in-out focus:ring-sky-900 text-sky-900;
+  }
+
+  .mobile-radio-buttons {
+    @apply mt-24 drop-shadow-sm sm:w-4 sm:h-4 md:w-4 md:h-4 lg:w-6 lg:h-6 xl:w-6 xl:h-6 2xl:w-6 2xl:h-6 hover:drop-shadow-lg hover:scale-150 hover:delay-75 hover:ring-sky-900 hover:ring-2 hover:ease-in-out focus:ring-sky-900 text-sky-900;
+  }
+
+  .feedback-section-label {
+    @apply font-bold mt-10 text-xs md:text-sm lg:text-base xl:text-base 2xl:text-xl;
+  }
+
+  .feedback-comment-box {
+    @apply block border border-black w-full p-2.5 mt-5 rounded-md font-Roboto drop-shadow-sm resize-none;
+  }
+
+  .next-button {
+    @apply inline-flex bg-nextButton text-white text-sm lg:text-lg text-center font-Roboto font-bold w-16 px-4  py-2.5 my-5 md:w-16 md:px-4 lg:w-24 lg:px-7 xl:w-24 xl:px-7 rounded hover:bg-sky-800 transition-all delay-75 ease-in-out hover:drop-shadow-sm;
+  }
+
+  .clear-form {
+    @apply flex cursor-pointer text-clearForm text-center underline rounded-md font-bold font-Roboto sm:text-base  md:text-lg  justify-end items-center;
+  }
+}

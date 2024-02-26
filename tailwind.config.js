@@ -20,13 +20,16 @@ module.exports = {
       },
       backgroundColor: {
         nextButton: "#1B6C8C",
+        backButton: "#000000",
+        submitButton: "#FED403",
       },
       textColor: {
         clearForm: "#1B6C8C",
+        clearForm2: "#FED403",
         radioButton: "#1B6C8C",
       },
     },
   },
   variants: {},
-  plugins: [],
+  plugins: [require("@tailwindcss/forms")],
 };

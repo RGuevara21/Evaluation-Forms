@@ -1368,893 +1368,804 @@ select{
   .radio-button-container{
     text-align: center;
   }
-  .user-interface-radio-buttons{
+  .responsiveness-radio-buttons{
     margin-top: 6rem;
   }
-  .user-interface-radio-buttons{
+  .responsiveness-radio-buttons{
     --tw-text-opacity: 1;
-    color: rgb(12 74 110 / var(--tw-text-opacity));
+    color: rgb(234 179 8 / var(--tw-text-opacity));
   }
-  .user-interface-radio-buttons{
+  .responsiveness-radio-buttons{
     --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .user-interface-radio-buttons:hover{
+  .responsiveness-radio-buttons:hover{
     --tw-scale-x: 1.5;
     --tw-scale-y: 1.5;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
-  .user-interface-radio-buttons:hover{
+  .responsiveness-radio-buttons:hover{
     --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
     box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
   }
-  .user-interface-radio-buttons:hover{
+  .responsiveness-radio-buttons:hover{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
-  .user-interface-radio-buttons:hover{
+  .responsiveness-radio-buttons:hover{
     --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .user-interface-radio-buttons:hover{
+  .responsiveness-radio-buttons:hover{
     transition-delay: 75ms;
   }
-  .user-interface-radio-buttons:hover{
+  .responsiveness-radio-buttons:hover{
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
-  .user-interface-radio-buttons:focus{
+  .responsiveness-radio-buttons:focus{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
   @media (min-width: 640px){
-    .user-interface-radio-buttons{
+    .responsiveness-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 640px){
-    .user-interface-radio-buttons{
+    .responsiveness-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 768px){
-    .user-interface-radio-buttons{
+    .responsiveness-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 768px){
-    .user-interface-radio-buttons{
+    .responsiveness-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 1024px){
-    .user-interface-radio-buttons{
+    .responsiveness-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1024px){
-    .user-interface-radio-buttons{
+    .responsiveness-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .user-interface-radio-buttons{
+    .responsiveness-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .user-interface-radio-buttons{
+    .responsiveness-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .user-interface-radio-buttons{
+    .responsiveness-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .user-interface-radio-buttons{
+    .responsiveness-radio-buttons{
       width: 1.5rem;
     }
   }
-  .functionality-radio-buttons-1{
+  .expertise-radio-buttons-1{
     margin-top: 6rem;
   }
-  .functionality-radio-buttons-1{
+  .expertise-radio-buttons-1{
     --tw-text-opacity: 1;
-    color: rgb(12 74 110 / var(--tw-text-opacity));
+    color: rgb(234 179 8 / var(--tw-text-opacity));
   }
-  .functionality-radio-buttons-1{
+  .expertise-radio-buttons-1{
     --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .functionality-radio-buttons-1:hover{
+  .expertise-radio-buttons-1:hover{
     --tw-scale-x: 1.5;
     --tw-scale-y: 1.5;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
-  .functionality-radio-buttons-1:hover{
+  .expertise-radio-buttons-1:hover{
     --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
     box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
   }
-  .functionality-radio-buttons-1:hover{
+  .expertise-radio-buttons-1:hover{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
-  .functionality-radio-buttons-1:hover{
+  .expertise-radio-buttons-1:hover{
     --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .functionality-radio-buttons-1:hover{
+  .expertise-radio-buttons-1:hover{
     transition-delay: 75ms;
   }
-  .functionality-radio-buttons-1:hover{
+  .expertise-radio-buttons-1:hover{
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
-  .functionality-radio-buttons-1:focus{
+  .expertise-radio-buttons-1:focus{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
   @media (min-width: 640px){
-    .functionality-radio-buttons-1{
+    .expertise-radio-buttons-1{
       height: 1rem;
     }
   }
   @media (min-width: 640px){
-    .functionality-radio-buttons-1{
+    .expertise-radio-buttons-1{
       width: 1rem;
     }
   }
   @media (min-width: 768px){
-    .functionality-radio-buttons-1{
+    .expertise-radio-buttons-1{
       height: 1rem;
     }
   }
   @media (min-width: 768px){
-    .functionality-radio-buttons-1{
+    .expertise-radio-buttons-1{
       width: 1rem;
     }
   }
   @media (min-width: 1024px){
-    .functionality-radio-buttons-1{
+    .expertise-radio-buttons-1{
       height: 1.5rem;
     }
   }
   @media (min-width: 1024px){
-    .functionality-radio-buttons-1{
+    .expertise-radio-buttons-1{
       width: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .functionality-radio-buttons-1{
+    .expertise-radio-buttons-1{
       height: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .functionality-radio-buttons-1{
+    .expertise-radio-buttons-1{
       width: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .functionality-radio-buttons-1{
+    .expertise-radio-buttons-1{
       height: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .functionality-radio-buttons-1{
+    .expertise-radio-buttons-1{
       width: 1.5rem;
     }
   }
-  .functionality-radio-buttons-2{
+  .expertise-radio-buttons-2{
     margin-top: 1.75rem;
   }
-  .functionality-radio-buttons-2{
+  .expertise-radio-buttons-2{
     --tw-text-opacity: 1;
-    color: rgb(12 74 110 / var(--tw-text-opacity));
+    color: rgb(234 179 8 / var(--tw-text-opacity));
   }
-  .functionality-radio-buttons-2{
+  .expertise-radio-buttons-2{
     --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .functionality-radio-buttons-2:hover{
+  .expertise-radio-buttons-2:hover{
     --tw-scale-x: 1.5;
     --tw-scale-y: 1.5;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
-  .functionality-radio-buttons-2:hover{
+  .expertise-radio-buttons-2:hover{
     --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
     box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
   }
-  .functionality-radio-buttons-2:hover{
+  .expertise-radio-buttons-2:hover{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
-  .functionality-radio-buttons-2:hover{
+  .expertise-radio-buttons-2:hover{
     --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .functionality-radio-buttons-2:hover{
+  .expertise-radio-buttons-2:hover{
     transition-delay: 75ms;
   }
-  .functionality-radio-buttons-2:hover{
+  .expertise-radio-buttons-2:hover{
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
-  .functionality-radio-buttons-2:focus{
+  .expertise-radio-buttons-2:focus{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
   @media (min-width: 640px){
-    .functionality-radio-buttons-2{
+    .expertise-radio-buttons-2{
       height: 1rem;
     }
   }
   @media (min-width: 640px){
-    .functionality-radio-buttons-2{
+    .expertise-radio-buttons-2{
       width: 1rem;
     }
   }
   @media (min-width: 768px){
-    .functionality-radio-buttons-2{
+    .expertise-radio-buttons-2{
       height: 1rem;
     }
   }
   @media (min-width: 768px){
-    .functionality-radio-buttons-2{
+    .expertise-radio-buttons-2{
       width: 1rem;
     }
   }
   @media (min-width: 1024px){
-    .functionality-radio-buttons-2{
+    .expertise-radio-buttons-2{
       height: 1.5rem;
     }
   }
   @media (min-width: 1024px){
-    .functionality-radio-buttons-2{
+    .expertise-radio-buttons-2{
       width: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .functionality-radio-buttons-2{
+    .expertise-radio-buttons-2{
       height: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .functionality-radio-buttons-2{
+    .expertise-radio-buttons-2{
       width: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .functionality-radio-buttons-2{
+    .expertise-radio-buttons-2{
       height: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .functionality-radio-buttons-2{
+    .expertise-radio-buttons-2{
       width: 1.5rem;
     }
   }
-  .scalability-radio-buttons{
+  .communication-radio-buttons{
     margin-top: 6rem;
   }
-  .scalability-radio-buttons{
+  .communication-radio-buttons{
     --tw-text-opacity: 1;
-    color: rgb(12 74 110 / var(--tw-text-opacity));
+    color: rgb(234 179 8 / var(--tw-text-opacity));
   }
-  .scalability-radio-buttons{
+  .communication-radio-buttons{
     --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .scalability-radio-buttons:hover{
+  .communication-radio-buttons:hover{
     --tw-scale-x: 1.5;
     --tw-scale-y: 1.5;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
-  .scalability-radio-buttons:hover{
+  .communication-radio-buttons:hover{
     --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
     box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
   }
-  .scalability-radio-buttons:hover{
+  .communication-radio-buttons:hover{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
-  .scalability-radio-buttons:hover{
+  .communication-radio-buttons:hover{
     --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .scalability-radio-buttons:hover{
+  .communication-radio-buttons:hover{
     transition-delay: 75ms;
   }
-  .scalability-radio-buttons:hover{
+  .communication-radio-buttons:hover{
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
-  .scalability-radio-buttons:focus{
+  .communication-radio-buttons:focus{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
   @media (min-width: 640px){
-    .scalability-radio-buttons{
+    .communication-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 640px){
-    .scalability-radio-buttons{
+    .communication-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 768px){
-    .scalability-radio-buttons{
+    .communication-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 768px){
-    .scalability-radio-buttons{
+    .communication-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 1024px){
-    .scalability-radio-buttons{
+    .communication-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1024px){
-    .scalability-radio-buttons{
+    .communication-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .scalability-radio-buttons{
+    .communication-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .scalability-radio-buttons{
+    .communication-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .scalability-radio-buttons{
+    .communication-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .scalability-radio-buttons{
+    .communication-radio-buttons{
       width: 1.5rem;
     }
   }
-  .integration-radio-buttons{
+  .documentation-radio-buttons{
     margin-top: 6rem;
   }
-  .integration-radio-buttons{
+  .documentation-radio-buttons{
     --tw-text-opacity: 1;
-    color: rgb(12 74 110 / var(--tw-text-opacity));
+    color: rgb(234 179 8 / var(--tw-text-opacity));
   }
-  .integration-radio-buttons{
+  .documentation-radio-buttons{
     --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .integration-radio-buttons:hover{
+  .documentation-radio-buttons:hover{
     --tw-scale-x: 1.5;
     --tw-scale-y: 1.5;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
-  .integration-radio-buttons:hover{
+  .documentation-radio-buttons:hover{
     --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
     box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
   }
-  .integration-radio-buttons:hover{
+  .documentation-radio-buttons:hover{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
-  .integration-radio-buttons:hover{
+  .documentation-radio-buttons:hover{
     --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .integration-radio-buttons:hover{
+  .documentation-radio-buttons:hover{
     transition-delay: 75ms;
   }
-  .integration-radio-buttons:hover{
+  .documentation-radio-buttons:hover{
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
-  .integration-radio-buttons:focus{
+  .documentation-radio-buttons:focus{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
   @media (min-width: 640px){
-    .integration-radio-buttons{
+    .documentation-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 640px){
-    .integration-radio-buttons{
+    .documentation-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 768px){
-    .integration-radio-buttons{
+    .documentation-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 768px){
-    .integration-radio-buttons{
+    .documentation-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 1024px){
-    .integration-radio-buttons{
+    .documentation-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1024px){
-    .integration-radio-buttons{
+    .documentation-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .integration-radio-buttons{
+    .documentation-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .integration-radio-buttons{
+    .documentation-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .integration-radio-buttons{
+    .documentation-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .integration-radio-buttons{
+    .documentation-radio-buttons{
       width: 1.5rem;
     }
   }
-  .security-radio-buttons-1{
+  .training-resources-radio-buttons{
+    margin-top: 5rem;
+  }
+  .training-resources-radio-buttons{
+    --tw-text-opacity: 1;
+    color: rgb(234 179 8 / var(--tw-text-opacity));
+  }
+  .training-resources-radio-buttons{
+    --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
+    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+  }
+  .training-resources-radio-buttons:hover{
+    --tw-scale-x: 1.5;
+    --tw-scale-y: 1.5;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+  }
+  .training-resources-radio-buttons:hover{
+    --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+    --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+    box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
+  }
+  .training-resources-radio-buttons:hover{
+    --tw-ring-opacity: 1;
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
+  }
+  .training-resources-radio-buttons:hover{
+    --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
+    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+  }
+  .training-resources-radio-buttons:hover{
+    transition-delay: 75ms;
+  }
+  .training-resources-radio-buttons:hover{
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .training-resources-radio-buttons:focus{
+    --tw-ring-opacity: 1;
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
+  }
+  @media (min-width: 640px){
+    .training-resources-radio-buttons{
+      height: 1rem;
+    }
+  }
+  @media (min-width: 640px){
+    .training-resources-radio-buttons{
+      width: 1rem;
+    }
+  }
+  @media (min-width: 768px){
+    .training-resources-radio-buttons{
+      height: 1rem;
+    }
+  }
+  @media (min-width: 768px){
+    .training-resources-radio-buttons{
+      width: 1rem;
+    }
+  }
+  @media (min-width: 1024px){
+    .training-resources-radio-buttons{
+      height: 1.5rem;
+    }
+  }
+  @media (min-width: 1024px){
+    .training-resources-radio-buttons{
+      width: 1.5rem;
+    }
+  }
+  @media (min-width: 1280px){
+    .training-resources-radio-buttons{
+      height: 1.5rem;
+    }
+  }
+  @media (min-width: 1280px){
+    .training-resources-radio-buttons{
+      width: 1.5rem;
+    }
+  }
+  @media (min-width: 1536px){
+    .training-resources-radio-buttons{
+      height: 1.5rem;
+    }
+  }
+  @media (min-width: 1536px){
+    .training-resources-radio-buttons{
+      width: 1.5rem;
+    }
+  }
+  .user-feedback-handling-radio-buttons{
     margin-top: 6rem;
   }
-  .security-radio-buttons-1{
+  .user-feedback-handling-radio-buttons{
     --tw-text-opacity: 1;
-    color: rgb(12 74 110 / var(--tw-text-opacity));
+    color: rgb(234 179 8 / var(--tw-text-opacity));
   }
-  .security-radio-buttons-1{
+  .user-feedback-handling-radio-buttons{
     --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .security-radio-buttons-1:hover{
+  .user-feedback-handling-radio-buttons:hover{
     --tw-scale-x: 1.5;
     --tw-scale-y: 1.5;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
-  .security-radio-buttons-1:hover{
+  .user-feedback-handling-radio-buttons:hover{
     --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
     box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
   }
-  .security-radio-buttons-1:hover{
+  .user-feedback-handling-radio-buttons:hover{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
-  .security-radio-buttons-1:hover{
+  .user-feedback-handling-radio-buttons:hover{
     --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .security-radio-buttons-1:hover{
+  .user-feedback-handling-radio-buttons:hover{
     transition-delay: 75ms;
   }
-  .security-radio-buttons-1:hover{
+  .user-feedback-handling-radio-buttons:hover{
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
-  .security-radio-buttons-1:focus{
+  .user-feedback-handling-radio-buttons:focus{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
   @media (min-width: 640px){
-    .security-radio-buttons-1{
+    .user-feedback-handling-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 640px){
-    .security-radio-buttons-1{
+    .user-feedback-handling-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 768px){
-    .security-radio-buttons-1{
+    .user-feedback-handling-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 768px){
-    .security-radio-buttons-1{
+    .user-feedback-handling-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 1024px){
-    .security-radio-buttons-1{
+    .user-feedback-handling-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1024px){
-    .security-radio-buttons-1{
+    .user-feedback-handling-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .security-radio-buttons-1{
+    .user-feedback-handling-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .security-radio-buttons-1{
+    .user-feedback-handling-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .security-radio-buttons-1{
+    .user-feedback-handling-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .security-radio-buttons-1{
+    .user-feedback-handling-radio-buttons{
       width: 1.5rem;
     }
   }
-  .security-radio-buttons-2{
-    margin-top: 1.75rem;
-  }
-  .security-radio-buttons-2{
-    --tw-text-opacity: 1;
-    color: rgb(12 74 110 / var(--tw-text-opacity));
-  }
-  .security-radio-buttons-2{
-    --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
-    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-  }
-  .security-radio-buttons-2:hover{
-    --tw-scale-x: 1.5;
-    --tw-scale-y: 1.5;
-    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-  }
-  .security-radio-buttons-2:hover{
-    --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
-    --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
-    box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
-  }
-  .security-radio-buttons-2:hover{
-    --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
-  }
-  .security-radio-buttons-2:hover{
-    --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
-    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-  }
-  .security-radio-buttons-2:hover{
-    transition-delay: 75ms;
-  }
-  .security-radio-buttons-2:hover{
-    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  }
-  .security-radio-buttons-2:focus{
-    --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
-  }
-  @media (min-width: 640px){
-    .security-radio-buttons-2{
-      height: 1rem;
-    }
-  }
-  @media (min-width: 640px){
-    .security-radio-buttons-2{
-      width: 1rem;
-    }
-  }
-  @media (min-width: 768px){
-    .security-radio-buttons-2{
-      height: 1rem;
-    }
-  }
-  @media (min-width: 768px){
-    .security-radio-buttons-2{
-      width: 1rem;
-    }
-  }
-  @media (min-width: 1024px){
-    .security-radio-buttons-2{
-      height: 1.5rem;
-    }
-  }
-  @media (min-width: 1024px){
-    .security-radio-buttons-2{
-      width: 1.5rem;
-    }
-  }
-  @media (min-width: 1280px){
-    .security-radio-buttons-2{
-      height: 1.5rem;
-    }
-  }
-  @media (min-width: 1280px){
-    .security-radio-buttons-2{
-      width: 1.5rem;
-    }
-  }
-  @media (min-width: 1536px){
-    .security-radio-buttons-2{
-      height: 1.5rem;
-    }
-  }
-  @media (min-width: 1536px){
-    .security-radio-buttons-2{
-      width: 1.5rem;
-    }
-  }
-  .reporting-radio-buttons{
+  .availability-radio-buttons{
     margin-top: 6rem;
   }
-  .reporting-radio-buttons{
+  .availability-radio-buttons{
     --tw-text-opacity: 1;
-    color: rgb(12 74 110 / var(--tw-text-opacity));
+    color: rgb(234 179 8 / var(--tw-text-opacity));
   }
-  .reporting-radio-buttons{
+  .availability-radio-buttons{
     --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .reporting-radio-buttons:hover{
+  .availability-radio-buttons:hover{
     --tw-scale-x: 1.5;
     --tw-scale-y: 1.5;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
-  .reporting-radio-buttons:hover{
+  .availability-radio-buttons:hover{
     --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
     box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
   }
-  .reporting-radio-buttons:hover{
+  .availability-radio-buttons:hover{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
-  .reporting-radio-buttons:hover{
+  .availability-radio-buttons:hover{
     --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .reporting-radio-buttons:hover{
+  .availability-radio-buttons:hover{
     transition-delay: 75ms;
   }
-  .reporting-radio-buttons:hover{
+  .availability-radio-buttons:hover{
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
-  .reporting-radio-buttons:focus{
+  .availability-radio-buttons:focus{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
   @media (min-width: 640px){
-    .reporting-radio-buttons{
+    .availability-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 640px){
-    .reporting-radio-buttons{
+    .availability-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 768px){
-    .reporting-radio-buttons{
+    .availability-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 768px){
-    .reporting-radio-buttons{
+    .availability-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 1024px){
-    .reporting-radio-buttons{
+    .availability-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1024px){
-    .reporting-radio-buttons{
+    .availability-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .reporting-radio-buttons{
+    .availability-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .reporting-radio-buttons{
+    .availability-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .reporting-radio-buttons{
+    .availability-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .reporting-radio-buttons{
+    .availability-radio-buttons{
       width: 1.5rem;
     }
   }
-  .permissions-radio-buttons{
+  .resolution-time-radio-buttons{
     margin-top: 6rem;
   }
-  .permissions-radio-buttons{
+  .resolution-time-radio-buttons{
     --tw-text-opacity: 1;
-    color: rgb(12 74 110 / var(--tw-text-opacity));
+    color: rgb(234 179 8 / var(--tw-text-opacity));
   }
-  .permissions-radio-buttons{
+  .resolution-time-radio-buttons{
     --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .permissions-radio-buttons:hover{
+  .resolution-time-radio-buttons:hover{
     --tw-scale-x: 1.5;
     --tw-scale-y: 1.5;
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
-  .permissions-radio-buttons:hover{
+  .resolution-time-radio-buttons:hover{
     --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
     --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
     box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
   }
-  .permissions-radio-buttons:hover{
+  .resolution-time-radio-buttons:hover{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
-  .permissions-radio-buttons:hover{
+  .resolution-time-radio-buttons:hover{
     --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .permissions-radio-buttons:hover{
+  .resolution-time-radio-buttons:hover{
     transition-delay: 75ms;
   }
-  .permissions-radio-buttons:hover{
+  .resolution-time-radio-buttons:hover{
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
-  .permissions-radio-buttons:focus{
+  .resolution-time-radio-buttons:focus{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
+    --tw-ring-color: rgb(234 179 8 / var(--tw-ring-opacity));
   }
   @media (min-width: 640px){
-    .permissions-radio-buttons{
+    .resolution-time-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 640px){
-    .permissions-radio-buttons{
+    .resolution-time-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 768px){
-    .permissions-radio-buttons{
+    .resolution-time-radio-buttons{
       height: 1rem;
     }
   }
   @media (min-width: 768px){
-    .permissions-radio-buttons{
+    .resolution-time-radio-buttons{
       width: 1rem;
     }
   }
   @media (min-width: 1024px){
-    .permissions-radio-buttons{
+    .resolution-time-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1024px){
-    .permissions-radio-buttons{
+    .resolution-time-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .permissions-radio-buttons{
+    .resolution-time-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1280px){
-    .permissions-radio-buttons{
+    .resolution-time-radio-buttons{
       width: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .permissions-radio-buttons{
+    .resolution-time-radio-buttons{
       height: 1.5rem;
     }
   }
   @media (min-width: 1536px){
-    .permissions-radio-buttons{
-      width: 1.5rem;
-    }
-  }
-  .mobile-radio-buttons{
-    margin-top: 6rem;
-  }
-  .mobile-radio-buttons{
-    --tw-text-opacity: 1;
-    color: rgb(12 74 110 / var(--tw-text-opacity));
-  }
-  .mobile-radio-buttons{
-    --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
-    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-  }
-  .mobile-radio-buttons:hover{
-    --tw-scale-x: 1.5;
-    --tw-scale-y: 1.5;
-    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-  }
-  .mobile-radio-buttons:hover{
-    --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
-    --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
-    box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
-  }
-  .mobile-radio-buttons:hover{
-    --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
-  }
-  .mobile-radio-buttons:hover{
-    --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
-    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-  }
-  .mobile-radio-buttons:hover{
-    transition-delay: 75ms;
-  }
-  .mobile-radio-buttons:hover{
-    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  }
-  .mobile-radio-buttons:focus{
-    --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(12 74 110 / var(--tw-ring-opacity));
-  }
-  @media (min-width: 640px){
-    .mobile-radio-buttons{
-      height: 1rem;
-    }
-  }
-  @media (min-width: 640px){
-    .mobile-radio-buttons{
-      width: 1rem;
-    }
-  }
-  @media (min-width: 768px){
-    .mobile-radio-buttons{
-      height: 1rem;
-    }
-  }
-  @media (min-width: 768px){
-    .mobile-radio-buttons{
-      width: 1rem;
-    }
-  }
-  @media (min-width: 1024px){
-    .mobile-radio-buttons{
-      height: 1.5rem;
-    }
-  }
-  @media (min-width: 1024px){
-    .mobile-radio-buttons{
-      width: 1.5rem;
-    }
-  }
-  @media (min-width: 1280px){
-    .mobile-radio-buttons{
-      height: 1.5rem;
-    }
-  }
-  @media (min-width: 1280px){
-    .mobile-radio-buttons{
-      width: 1.5rem;
-    }
-  }
-  @media (min-width: 1536px){
-    .mobile-radio-buttons{
-      height: 1.5rem;
-    }
-  }
-  @media (min-width: 1536px){
-    .mobile-radio-buttons{
+    .resolution-time-radio-buttons{
       width: 1.5rem;
     }
   }
@@ -2324,104 +2235,221 @@ select{
     --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
-  .next-button{
+  .back-button{
     margin-top: 1.25rem;
     margin-bottom: 1.25rem;
   }
-  .next-button{
+  .back-button{
     display: inline-flex;
   }
-  .next-button{
-    width: 4rem;
+  .back-button{
+    width: 2.5rem;
   }
-  .next-button{
+  .back-button{
     border-radius: 0.25rem;
   }
-  .next-button{
+  .back-button{
     --tw-bg-opacity: 1;
-    background-color: rgb(27 108 140 / var(--tw-bg-opacity));
+    background-color: rgb(41 37 36 / var(--tw-bg-opacity));
   }
-  .next-button{
-    padding-left: 1rem;
-    padding-right: 1rem;
+  .back-button{
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
   }
-  .next-button{
+  .back-button{
     padding-top: 0.625rem;
     padding-bottom: 0.625rem;
   }
-  .next-button{
+  .back-button{
     text-align: center;
   }
-  .next-button{
+  .back-button{
     font-family: Roboto;
   }
-  .next-button{
+  .back-button{
     font-size: 0.875rem;
     line-height: 1.25rem;
   }
-  .next-button{
+  .back-button{
     font-weight: 700;
   }
-  .next-button{
+  .back-button{
     --tw-text-opacity: 1;
     color: rgb(255 255 255 / var(--tw-text-opacity));
   }
-  .next-button{
+  .back-button{
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 150ms;
   }
-  .next-button{
+  .back-button{
     transition-delay: 75ms;
   }
-  .next-button{
+  .back-button{
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
-  .next-button:hover{
+  .back-button:hover{
     --tw-bg-opacity: 1;
-    background-color: rgb(7 89 133 / var(--tw-bg-opacity));
+    background-color: rgb(0 0 0 / var(--tw-bg-opacity));
   }
-  .next-button:hover{
+  .back-button:hover{
     --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
     filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
   }
   @media (min-width: 768px){
-    .next-button{
-      width: 4rem;
+    .back-button{
+      width: 3rem;
     }
   }
   @media (min-width: 768px){
-    .next-button{
-      padding-left: 1rem;
-      padding-right: 1rem;
+    .back-button{
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
     }
   }
   @media (min-width: 1024px){
-    .next-button{
-      width: 6rem;
+    .back-button{
+      width: 3rem;
     }
   }
   @media (min-width: 1024px){
-    .next-button{
-      padding-left: 1.75rem;
-      padding-right: 1.75rem;
+    .back-button{
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
     }
   }
   @media (min-width: 1024px){
-    .next-button{
+    .back-button{
+      font-size: 0.875rem;
+      line-height: 1.25rem;
+    }
+  }
+  @media (min-width: 1280px){
+    .back-button{
+      width: 4rem;
+    }
+  }
+  @media (min-width: 1280px){
+    .back-button{
+      padding-left: 0.75rem;
+      padding-right: 0.75rem;
+    }
+  }
+  @media (min-width: 1280px){
+    .back-button{
       font-size: 1.125rem;
       line-height: 1.75rem;
     }
   }
-  @media (min-width: 1280px){
-    .next-button{
-      width: 6rem;
+  .submit-button{
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+  .submit-button{
+    display: inline-flex;
+  }
+  .submit-button{
+    width: 3.5rem;
+  }
+  .submit-button{
+    border-radius: 0.25rem;
+  }
+  .submit-button{
+    --tw-bg-opacity: 1;
+    background-color: rgb(254 212 3 / var(--tw-bg-opacity));
+  }
+  .submit-button{
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+  }
+  .submit-button{
+    padding-top: 0.625rem;
+    padding-bottom: 0.625rem;
+  }
+  .submit-button{
+    text-align: center;
+  }
+  .submit-button{
+    font-family: Roboto;
+  }
+  .submit-button{
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+  .submit-button{
+    font-weight: 700;
+  }
+  .submit-button{
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+  }
+  .submit-button{
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+  }
+  .submit-button{
+    transition-delay: 75ms;
+  }
+  .submit-button{
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .submit-button:hover{
+    --tw-bg-opacity: 1;
+    background-color: rgb(234 179 8 / var(--tw-bg-opacity));
+  }
+  .submit-button:hover{
+    --tw-drop-shadow: drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));
+    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+  }
+  @media (min-width: 768px){
+    .submit-button{
+      margin-left: 0.25rem;
+    }
+  }
+  @media (min-width: 768px){
+    .submit-button{
+      width: 4rem;
+    }
+  }
+  @media (min-width: 768px){
+    .submit-button{
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+    }
+  }
+  @media (min-width: 1024px){
+    .submit-button{
+      width: 4rem;
+    }
+  }
+  @media (min-width: 1024px){
+    .submit-button{
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+    }
+  }
+  @media (min-width: 1024px){
+    .submit-button{
+      font-size: 0.875rem;
+      line-height: 1.25rem;
     }
   }
   @media (min-width: 1280px){
-    .next-button{
-      padding-left: 1.75rem;
-      padding-right: 1.75rem;
+    .submit-button{
+      width: 5rem;
+    }
+  }
+  @media (min-width: 1280px){
+    .submit-button{
+      padding-left: 0.75rem;
+      padding-right: 0.75rem;
+    }
+  }
+  @media (min-width: 1280px){
+    .submit-button{
+      font-size: 1.125rem;
+      line-height: 1.75rem;
     }
   }
   .clear-form{
@@ -2450,7 +2478,7 @@ select{
   }
   .clear-form{
     --tw-text-opacity: 1;
-    color: rgb(27 108 140 / var(--tw-text-opacity));
+    color: rgb(234 179 8 / var(--tw-text-opacity));
   }
   .clear-form{
     text-decoration-line: underline;

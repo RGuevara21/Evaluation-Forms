@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CST Evaluation Form</title>
+
+    <link rel="stylesheet" href="/public/tailwind2.css" />
+  </head>
+
+  <body
+    class="bg-cover bg-center bg-no-repeat flex justify-center items-center"
+    style="
+      background-image: url(&quot;/public/img-used/customer-support-background.jpg&quot;);
+      backdrop-filter: blur(10px);
+    "
+  >
+    <!-- Page Wrapper -->
+    <div class="page-wrapper">
+      <!-- Main Content of the Page -->
+
+      <div id="outside-form-container" class="outside-form-container">
+        <div id="inside-form-container" class="inside-form-container">
+          <!-- Form Header Section -->
+
+          <div class="form-header-section">
+            <img
+              id="form-logo"
+              class="form-logo"
+              src="/public/img-used/customer-support-logo.png"
+              alt="customer-support-logo"
+            />
+            <h1 id="form-title" class="form-title">
+              Customer Support Team Evaluation Form
+            </h1>
+          </div>
+
+          <!-- Form Thank You Message Section -->
+
+          <section class="form-thank-you-message-section">
+            <p class="thank-you-message">
+              Thank you for taking the time to use and evaluate our Customer
+              Support Team. Your insights are invaluable and will guide us in
+              improving our services to better meet your needs.
+            </p>
+          </section>
+
+          <!-- Form Instruction Guide Section -->
+          <section class="form-instruction-guide-section">
+            <p class="instruction-guide-message">
+              Please choose the option that best reflects your opinion for each
+              aspect in the form.
+            </p>
+          </section>
+
+          <!-- Form Questionnaires Section -->
+          <section
+            class="form-questionnaires-section"
+            id="form-questionnaires-section"
+          >
+            <div id="table-container" class="table-container">
+              <table>
+                <thead>
+                  <tr>
+                    <th class="aspect-column">
+                      <h4 hidden>Aspect Column</h4>
+                      <!-- Column -->
+                    </th>
+                    <th class="response-anchors">1 - Poor</th>
+                    <th class="response-anchors">2 - Fair</th>
+                    <th class="response-anchors">3 - Good</th>
+                    <th class="response-anchors">4 - Very Good</th>
+                    <th class="response-anchors">5 - Excellent</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- Responsiveness (ASPECT) -->
+                  <tr>
+                    <td>
+                      <h6 class="aspect-labels">RESPONSIVENESS</h6>
+                      <p class="specific-criterias-1">
+                        Time taken to respond to queries and issues
+                      </p>
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="responsiveness-radio-buttons"
+                        type="radio"
+                        id="user-interface-1"
+                        name="user-interface"
+                        value="1 - Poor"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="responsiveness-radio-buttons"
+                        type="radio"
+                        id="user-interface-2"
+                        name="user-interface"
+                        value="2 - Fair"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="responsiveness-radio-buttons"
+                        type="radio"
+                        id="user-interface-3"
+                        name="user-interface"
+                        value="3 - Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="responsiveness-radio-buttons"
+                        type="radio"
+                        id="user-interface-4"
+                        name="user-interface"
+                        value="4 - Very Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="responsiveness-radio-buttons"
+                        type="radio"
+                        id="user-interface-5"
+                        name="user-interface"
+                        value="5 - Excellent"
+                      />
+                    </td>
+                  </tr>
+                  <!-- Expertise (ASPECT) -->
+                  <tr>
+                    <td>
+                      <h6 class="aspect-labels">EXPERTISE</h6>
+                      <p class="specific-criterias-1">
+                        Knowledge in addressing technical and functional issues
+                      </p>
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="expertise-radio-buttons-1"
+                        type="radio"
+                        id="functionality-1-1"
+                        name="functionality-1"
+                        value="1 - Poor"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="expertise-radio-buttons-1"
+                        type="radio"
+                        id="functionality-1-2"
+                        name="functionality-1"
+                        value="2 - Fair"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="expertise-radio-buttons-1"
+                        type="radio"
+                        id="functionality-1-3"
+                        name="functionality-1"
+                        value="3 - Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="expertise-radio-buttons-1"
+                        type="radio"
+                        id="functionality-1-4"
+                        name="functionality-1"
+                        value="4 - Very Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="expertise-radio-buttons-1"
+                        type="radio"
+                        id="functionality-1-5"
+                        name="functionality-1"
+                        value="5 - Excellent"
+                      />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p class="specific-criterias-2">
+                        Ability to provide effective solutions
+                      </p>
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="expertise-radio-buttons-2"
+                        type="radio"
+                        id="functionality-2-1"
+                        name="functionality-2"
+                        value="1 - Poor"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="expertise-radio-buttons-2"
+                        type="radio"
+                        id="functionality-2-2"
+                        name="functionality-2"
+                        value="2 - Fair"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="expertise-radio-buttons-2"
+                        type="radio"
+                        id="functionality-2-3"
+                        name="functionality-2"
+                        value="3 - Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="expertise-radio-buttons-2"
+                        type="radio"
+                        id="functionality-2-4"
+                        name="functionality-2"
+                        value="4 - Very GOod"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="expertise-radio-buttons-2"
+                        type="radio"
+                        id="functionality-2-5"
+                        name="functionality-2"
+                        value="5 - Excellent"
+                      />
+                    </td>
+                  </tr>
+
+                  <!-- Communication (ASPECT) -->
+                  <tr>
+                    <td>
+                      <h6 class="aspect-labels">COMMUNICATION</h6>
+                      <p class="specific-criterias-1">
+                        Clear and user-friendly communication
+                      </p>
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="communication-radio-buttons"
+                        type="radio"
+                        id="scalability-1"
+                        name="scalability"
+                        value="1 - Poor"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="communication-radio-buttons"
+                        type="radio"
+                        id="scalability-2"
+                        name="scalability"
+                        value="2 - Fair"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="communication-radio-buttons"
+                        type="radio"
+                        id="scalability-3"
+                        name="scalability"
+                        value="3 - Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="communication-radio-buttons"
+                        type="radio"
+                        id="scalability-4"
+                        name="scalability"
+                        value="4 - Very Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="communication-radio-buttons"
+                        type="radio"
+                        id="scalability-5"
+                        name="scalability"
+                        value="5 - Excellent"
+                      />
+                    </td>
+                  </tr>
+                  <!-- Documentation (ASPECT) -->
+                  <tr>
+                    <td>
+                      <h6 class="aspect-labels">DOCUMENTATION</h6>
+                      <p class="specific-criterias-1">
+                        Availability of comprehensive documentation and
+                        knowledge base resources
+                      </p>
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="documentation-radio-buttons"
+                        type="radio"
+                        id="integration-1"
+                        name="integration"
+                        value="1 - Poor"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="documentation-radio-buttons"
+                        type="radio"
+                        id="integration-2"
+                        name="integration"
+                        value="2 - Fair"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="documentation-radio-buttons"
+                        type="radio"
+                        id="integration-3"
+                        name="integration"
+                        value="3 - Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="documentation-radio-buttons"
+                        type="radio"
+                        id="integration-4"
+                        name="integration"
+                        value="4 - Very Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="documentation-radio-buttons"
+                        type="radio"
+                        id="integration-5"
+                        name="integration"
+                        value="5 - Excellent"
+                      />
+                    </td>
+                  </tr>
+
+                  <!-- Training Resources (ASPECT) -->
+                  <tr>
+                    <td>
+                      <h6 class="aspect-labels">TRAINING RESOURCES</h6>
+                      <p class="specific-criterias-1">
+                        Availability of training materials, webinars, tutorials
+                        to help users become proficient
+                      </p>
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="training-resources-radio-buttons"
+                        type="radio"
+                        id="security-1-1"
+                        name="security-1"
+                        value="1 - Poor"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="training-resources-radio-buttons"
+                        type="radio"
+                        id="security-1-2"
+                        name="security-1"
+                        value="2 - Fair"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="training-resources-radio-buttons"
+                        type="radio"
+                        id="security-1-3"
+                        name="security-1"
+                        value="3 - Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="training-resources-radio-buttons"
+                        type="radio"
+                        id="security-1-4"
+                        name="security-1"
+                        value="4 - Very Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="training-resources-radio-buttons"
+                        type="radio"
+                        id="security-1-5"
+                        name="security-1"
+                        value="5 - Excellent"
+                      />
+                    </td>
+                  </tr>
+
+                  <!-- User Feedback Handling (ASPECT) -->
+                  <tr>
+                    <td>
+                      <h6 class="aspect-labels">USER FEEDBACK HANDLING</h6>
+                      <p class="specific-criterias-1">
+                        Actively gathering and incorporating user feedback
+                      </p>
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="user-feedback-handling-radio-buttons"
+                        type="radio"
+                        id="reporting-1"
+                        name="reporting"
+                        value="1 - Poor"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="user-feedback-handling-radio-buttons"
+                        type="radio"
+                        id="reporting-2"
+                        name="reporting"
+                        value="2 - Fair"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="user-feedback-handling-radio-buttons"
+                        type="radio"
+                        id="reporting-3"
+                        name="reporting"
+                        value="3 - Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="user-feedback-handling-radio-buttons"
+                        type="radio"
+                        id="reporting-4"
+                        name="reporting"
+                        value="4 - Very Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="user-feedback-handling-radio-buttons"
+                        type="radio"
+                        id="reporting-5"
+                        name="reporting"
+                        value="5 - Excellent"
+                      />
+                    </td>
+                  </tr>
+
+                  <!--  Availability (ASPECT) -->
+                  <tr>
+                    <td>
+                      <h6 class="aspect-labels">AVAILABILITY</h6>
+                      <p class="specific-criterias-1">
+                        Clearly defined working hours and support availability
+                      </p>
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="availability-radio-buttons"
+                        type="radio"
+                        id="user-permissions-1"
+                        name="user-permissions"
+                        value="1 - Poor"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="availability-radio-buttons"
+                        type="radio"
+                        id="user-permissions-2"
+                        name="user-permissions"
+                        value="2 - Fair"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="availability-radio-buttons"
+                        type="radio"
+                        id="user-permissions-3"
+                        name="user-permissions"
+                        value="3 - Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="availability-radio-buttons"
+                        type="radio"
+                        id="user-permissions-4"
+                        name="user-permissions"
+                        value="4 - Very Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="availability-radio-buttons"
+                        type="radio"
+                        id="user-permissions-5"
+                        name="user-permissions"
+                        value="5 - Excellent"
+                      />
+                    </td>
+                  </tr>
+
+                  <!--  Resolution Time (ASPECT) -->
+                  <tr>
+                    <td>
+                      <h6 class="aspect-labels">RESOLUTION TIME</h6>
+                      <p class="specific-criterias-1">
+                        Average time taken to resolve issues
+                      </p>
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="resolution-time-radio-buttons"
+                        type="radio"
+                        id="mobile-accessibility-1"
+                        name="mobile-accessibility"
+                        value="1 - Poor"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="resolution-time-radio-buttons"
+                        type="radio"
+                        id="mobile-accessibility-2"
+                        name="mobile-accessibility"
+                        value="2 - Fair"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="resolution-time-radio-buttons"
+                        type="radio"
+                        id="mobile-accessibility-3"
+                        name="mobile-accessibility"
+                        value="3 - Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="resolution-time-radio-buttons"
+                        type="radio"
+                        id="mobile-accessibility-4"
+                        name="mobile-accessibility"
+                        value="4 - Very Good"
+                      />
+                    </td>
+                    <td class="radio-button-container">
+                      <input
+                        class="resolution-time-radio-buttons"
+                        type="radio"
+                        id="mobile-accessibility-5"
+                        name="mobile-accessibility"
+                        value="5 - Excellent"
+                      />
+                    </td>
+                  </tr>
+
+                  <!-- Feedback Section -->
+
+                  <tr>
+                    <td colspan="6">
+                      <h6 class="feedback-section-label">
+                        Give your honest feedback:
+                      </h6>
+                      <textarea
+                        class="feedback-comment-box"
+                        name="smssef-feedbacks"
+                        id="smssef-feedbacks"
+                      ></textarea>
+                    </td>
+                  </tr>
+                </tbody>
+
+                <tfoot>
+                  <tr>
+                    <td class="button-container">
+                      <button
+                        class="back-button"
+                        onclick="navigateTo('sms-form.html')"
+                      >
+                        Back
+                      </button>
+                      <button class="submit-button">Submit</button>
+                    </td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>
+                      <a class="clear-form" href="#">Clear Form</a>
+                    </td>
+                  </tr>
+                </tfoot>
+              </table>
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+
+    <script src="forms-function.js"></script>
+  </body>
+</html>
